@@ -33,4 +33,10 @@ Uma aplicação simples e funcional feita em **React.js** que permite consultar 
 ---
 
 ## 📁 Estrutura do projeto
-
+src/
+├── App.jsx
+├── App.css
+├── main.jsx
+└── components/
+└── weaderInfo/
+└── weatherInfo.jsx
