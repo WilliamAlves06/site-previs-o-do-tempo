@@ -13,12 +13,6 @@ Uma aplicação simples e funcional feita em **React.js** que permite consultar 
 
 ---
 
-## 🖼️ Preview
-
-> Digite o nome da cidade, pressione **Enter** ou clique em **Buscar** para ver as informações do clima.
-
----
-
 ## 🚀 Tecnologias utilizadas
 
 <p align="center">
