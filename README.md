@@ -10,7 +10,6 @@ Uma aplicação simples e funcional feita em **React.js** que permite consultar 
 - 🌡️ Exibir temperatura em °C
 - 💧 Mostrar umidade relativa do ar
 - 🌥️ Exibir ícone do clima (ex: nublado, ensolarado)
-- ⌨️ Permite buscar com tecla **Enter**
 
 ---
 
