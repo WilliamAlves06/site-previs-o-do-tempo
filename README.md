@@ -6,10 +6,10 @@ Uma aplicação simples e funcional feita em **React.js** que permite consultar 
 
 ## 🔍 Funcionalidades
 
-- 🔎 Buscar o clima atual por cidade
-- 🌡️ Exibir temperatura em °C
-- 💧 Mostrar umidade relativa do ar
-- 🌥️ Exibir ícone do clima (ex: nublado, ensolarado)
+- 🔎 `Buscar o clima atual por cidade`
+- 🌡️ `Exibir temperatura em °C`
+- 💧 `Mostrar umidade relativa do ar`
+- 🌥️ `Exibir ícone do clima (ex: nublado, ensolarado)`
 
 ---
 
