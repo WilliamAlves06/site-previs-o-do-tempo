@@ -6,8 +6,6 @@ function weatherInfo({ weather }) {
         return <div>Carregando...</div>;
     }
 
-    console.log(weather)
-
     return (
         <div className='weather-container'>
             <h2>{weather.name}</h2>
